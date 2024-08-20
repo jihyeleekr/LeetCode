@@ -1,29 +1,36 @@
-### 9. Palindrome Number
+<h2><a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number</a></h2><h3>Easy</h3><hr><p>Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is a <em><strong>palindrome</strong>, and<code>false</code> otherwise</em>.</p>
 
-**Easy**
+<p>&nbsp;</p>
 
-Given an integer `x`, return `true` if `x` is a palindrome, and `false` otherwise.
+<p><strong class="example">Example 1:</strong></p>
 
-**Example 1:**
+<pre>
+    <strong>Input:</strong> x = 121
+    <strong>Output:</strong> true
+    <strong>Explanation:</strong> 121 reads as 121 from left to right and from right to left.
+</pre>
 
-    Input: x = 121
-    Output: true
-    Explanation: 121 reads as 121 from left to right and from right to left.
+<p><strong class="example">Example 2:</strong></p>
 
-**Example 2:**
+<pre>
+    <strong>Input:</strong> x = -121
+    <strong>Output:</strong> false
+    <strong>Explanation:</strong> From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+</pre>
 
-    Input: x = -121
-    Output: false
-    Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+<p><strong class="example">Example 3:</strong></p>
 
-**Example 3:**
+<pre>
+    <strong>Input:</strong> x = 10
+    <strong>Output:</strong> false
+    <strong>Explanation:</strong> Reads 01 from right to left. Therefore it is not a palindrome.
+</pre>
 
-    Input: x = 10
-    Output: false
-    Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+<p>&nbsp</p>
+<p><strong>Constraints:</strong></p>
+<ul>
+    <li>-2<sup>31</sup> <= <code>x</code> <= 2<sup>31</sup> - 1</li>
+</ul>
 
-**Constraints:**
-
-- -2<sup>31</sup> <= `x` <= 2<sup>31</sup> - 1
-
-**Follow up:** Could you solve it without converting the integer to a string?
+<p>&nbsp</p>
+<strong>Follow-up:&nbsp;</strong>Could you solve it without converting the integer to a string?
