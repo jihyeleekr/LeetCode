@@ -1,13 +1,11 @@
 <h2><a href="https://leetcode.com/problems/string-compression-iii">3163. String Compression III</a></h2><h3>Medium</h3><hr><p>Given a string <code>word</code>, compress it using the following algorithm:</p>
 
 <ul>
-	<li>Begin with an empty string <code>comp</code>. While <code>word</code> is <strong>not</strong> empty, use the following operation:
-
-	<ul>
-		<li>Remove a maximum length prefix of <code>word</code> made of a <em>single character</em> <code>c</code> repeating <strong>at most</strong> 9 times.</li>
-		<li>Append the length of the prefix followed by <code>c</code> to <code>comp</code>.</li>
-	</ul>
-	</li>
+    <li>Begin with an empty string <code>comp</code>. While <code>word</code> is <strong>not</strong> empty, use the following operation:</li>
+    <ul>
+        <li>Remove a maximum length prefix of <code>word</code> made of a <em>single character</em> <code>c</code> repeating <strong>at most</strong> 9 times.</li>
+        <li>Append the length of the prefix followed by <code>c</code> to <code>comp</code>.</li>
+    </ul>
 </ul>
 
 <p>Return the string <code>comp</code>.</p>
