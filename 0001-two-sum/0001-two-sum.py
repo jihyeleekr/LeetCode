@@ -5,11 +5,12 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        index = []
-        for i in range(0, len(nums)):
-            num = nums[i]
-            for j in range(i+1,len(nums)):
-                if(num + nums[j] == target):
-                    index.append(i)
-                    index.append(j)
-        return(index)
+        d_map ={}
+
+        for i, val in enumerate(nums):
+            comp = target - val
+
+            if comp in d_map:
+                return [d_map[comp], i]
+            d_map[val] = i
+    
