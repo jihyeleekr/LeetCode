@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/jihyeleekr/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/jihyeleekr/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/jihyeleekr/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/jihyeleekr/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/jihyeleekr/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/jihyeleekr/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/jihyeleekr/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
