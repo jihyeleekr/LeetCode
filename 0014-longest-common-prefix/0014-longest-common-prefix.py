@@ -4,16 +4,14 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        shortest = min(strs, key=len)
+        if not strs:
+            return ""
 
-        prefix = ""
+        for i in range(len(strs[0])):
+            char = strs[0][i]
 
-        for i in range(len(shortest)):
-            pre_test = prefix + shortest[i]
-            n = len(pre_test)
-            for word in strs:
-                if pre_test != word[:n]:
-                    return prefix
-            prefix += shortest[i]
-        return prefix
-        
+            for word in strs[1:]:
+                if i >= len(word) or word[i] != char:
+                    return strs[0][:i]
+
+        return strs[0]
