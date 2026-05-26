@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/jihyeleekr/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/jihyeleekr/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/jihyeleekr/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
+| [3570-find-books-with-no-available-copies](https://github.com/jihyeleekr/LeetCode/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
