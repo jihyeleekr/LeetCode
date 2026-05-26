@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/jihyeleekr/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/jihyeleekr/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/jihyeleekr/LeetCode/tree/main/0262-trips-and-users/) | Hard |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/jihyeleekr/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/jihyeleekr/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/jihyeleekr/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/jihyeleekr/LeetCode/tree/main/3570-find-books-with-no-available-copies/) | Easy |
