@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0608-tree-node](https://github.com/jihyeleekr/LeetCode/tree/main/0608-tree-node/) | Medium |
 | [0619-biggest-single-number](https://github.com/jihyeleekr/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/jihyeleekr/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/jihyeleekr/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/jihyeleekr/LeetCode/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
