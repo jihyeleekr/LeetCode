@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1045-customers-who-bought-all-products](https://github.com/jihyeleekr/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/jihyeleekr/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1158-market-analysis-i](https://github.com/jihyeleekr/LeetCode/tree/main/1158-market-analysis-i/) | Medium |
+| [1341-movie-rating](https://github.com/jihyeleekr/LeetCode/tree/main/1341-movie-rating/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/jihyeleekr/LeetCode/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
