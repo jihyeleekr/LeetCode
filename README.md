@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jihyeleekr/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/jihyeleekr/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/jihyeleekr/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/jihyeleekr/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/jihyeleekr/LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0608-tree-node](https://github.com/jihyeleekr/LeetCode/tree/main/0608-tree-node/) | Medium |
 | [0619-biggest-single-number](https://github.com/jihyeleekr/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
