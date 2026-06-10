@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1907-count-salary-categories](https://github.com/jihyeleekr/LeetCode/tree/main/1907-count-salary-categories/) | Medium |
 | [3220-odd-and-even-transactions](https://github.com/jihyeleekr/LeetCode/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/jihyeleekr/LeetCode/tree/main/3475-dna-pattern-recognition/) | Medium |
+| [3521-find-product-recommendation-pairs](https://github.com/jihyeleekr/LeetCode/tree/main/3521-find-product-recommendation-pairs/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/jihyeleekr/LeetCode/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
