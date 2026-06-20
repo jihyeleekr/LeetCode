@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1158-market-analysis-i](https://github.com/jihyeleekr/LeetCode/tree/main/1158-market-analysis-i/) | Medium |
 | [1341-movie-rating](https://github.com/jihyeleekr/LeetCode/tree/main/1341-movie-rating/) | Medium |
 | [1393-capital-gainloss](https://github.com/jihyeleekr/LeetCode/tree/main/1393-capital-gainloss/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/jihyeleekr/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1907-count-salary-categories](https://github.com/jihyeleekr/LeetCode/tree/main/1907-count-salary-categories/) | Medium |
 | [3220-odd-and-even-transactions](https://github.com/jihyeleekr/LeetCode/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/jihyeleekr/LeetCode/tree/main/3475-dna-pattern-recognition/) | Medium |
